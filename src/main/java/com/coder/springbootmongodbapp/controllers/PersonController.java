@@ -12,8 +12,7 @@ import com.coder.springbootmongodbapp.services.PersonService;
 
 import java.util.List;
 import java.util.UUID;
-
-@RestController
+ @RestController
 @RequestMapping(value = "/api")
 public class PersonController {
 
